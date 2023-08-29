@@ -40,4 +40,4 @@
 
 ---
 
-#### Если проект не открывается или вы хотите посмотреть со всеми интерактивными ячейками(plotly,ydata-profiling), его можно открыть по ссылке: <a href='https://nbviewer.org/github/verydirtyhands/taxi_counter/blob/main/p12f.ipynb'>Токсичные комментарии в интернет-магазине «Викишоп»</a>
+#### Если проект не открывается или вы хотите посмотреть со всеми интерактивными ячейками(plotly,ydata-profiling), его можно открыть по ссылке: <a href='https://nbviewer.org/github/verydirtyhands/toxic_comments/blob/main/p12f.ipynb'>Токсичные комментарии в интернет-магазине «Викишоп»</a>
